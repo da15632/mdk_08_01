@@ -1,0 +1,247 @@
+body{
+    background-color: rgb(204, 204, 204);
+    width: 60%;
+    margin:auto;
+}
+.kartinka .da {
+    padding: 100px 0px 100px 0px;
+    margin: auto;
+    display: flex;
+}
+.cont
+{
+    background: url(img/menu_fon.png) center/cover;
+    display: grid;
+    grid-template-columns: 0.35fr 1fr 0.2fr;
+    grid-template-rows: 1fr;
+    margin: auto;
+}
+.firstlogo
+{
+    padding: 13px 10px 0px 30px;
+    width: 120px;
+    height: 45px;
+}
+.firstfon{
+    display:flex;
+    gap: 60px;
+    padding: 10px 0px 0px 0px;
+    font-size: 15px;
+}
+.border1 {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
+.lupalogo
+{
+    padding: 11px 20px 0px 0px;
+    width: 20px;
+    height: 20px;
+}
+.border2
+{
+    background: url(img/fon_2.png) center/cover;
+    height: 400px;
+    margin: 90px 0px 0px 0px;
+    padding: 0px 0px 50px 0px;
+}
+.border2 .banan
+{
+    padding: 0px 0px 0px 95px;
+}
+.border2 .da2
+{
+    width: 252px;
+    height: 105px;
+    padding: 40px 0px 0px 100px;
+}
+
+.text1
+{
+    width: 30%;
+    padding: 0px 0px 0px 95px;
+}
+
+.text1 .pp
+{
+    border: 1px solid black;
+    width: 40%;
+}
+
+.border3 {
+    background: url(img/fon_3.png) center/cover;
+    margin: auto;
+    margin: 90px 0px 0px 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    padding: 60px 0px 70px 35px;
+}
+.n1 {
+    display: flex;
+}
+
+.n2 {
+    display: flex;
+}
+
+.n3 {
+    display: flex;
+}
+
+.pod_foto {
+    margin: 0%;
+}
+
+.teg {
+    margin: 0%;
+}
+
+.fotoda {
+    width: 11px;
+    height: 12px;
+    padding: 3px 3px 0px 3px;
+    margin: 0%;
+}
+
+.border4 {
+    background: url(img/fon_4.png) center/cover;
+    margin: 90px 0px 0px 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.odnakartinka {
+    margin-left: auto;
+    padding: 0px 70px 0px 0px;
+}
+
+.perestroika {
+    width: 20px;
+    height: 19px;
+}
+
+.perestroika_texta {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.nastroika_texta {
+    margin: 0%;
+    padding: 0px 12px 0px 12px;
+}
+
+.pod1 {
+    display: flex;
+}
+
+.pod2 {
+    margin-left: auto;
+    padding: 0px 30px 0px 0px;
+}
+
+.ramka {
+    border: 1px solid black;
+    margin: 5px 40px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.ramka2 {
+    border: 1px solid black;
+    text-align: center;
+    margin: 0px 200px 0px 220px;
+    padding: 0px 50px 5px 17px;
+}
+
+.nastroika_texta2 {
+    width: 90%;
+    padding: 0px 0px 50px 0px;
+}
+
+.border5 {
+    margin: 90px 0px 0px 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 100px;
+}
+
+.fourzerofour {
+    border-bottom: 3px gray solid;
+    padding: 0px 50px 0px 50px;
+    margin: 0px 50px 30px 50px;
+}
+
+.tarelka_c {
+    background-color: white;
+    padding: 0px 0px 0px 0px;
+    width: 500px;
+}
+
+.tarelka_c2 {
+    background-color: white;
+    font-size: 20px;
+    width: 500px;
+}
+
+.Autor {
+    border-bottom: 3px gray solid;
+    padding: 0px 50px 0px 50px;
+    margin: 0px 50px 30px 50px;
+}
+
+.karen {
+    padding: 0px 0px 0px 40px;
+}
+
+.Karen_Gray {
+    border-bottom: 3px gray solid;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 20px 0px 20px;
+}
+
+.odin11 {
+    margin: 5px 0px 5px 0px;
+}
+
+.povorot {
+    display: block;
+    margin-left: auto;
+}
+
+.razdelenie_tarelka {
+    display: grid;
+    grid-template-columns: 0.6fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.fot {
+    background: url(img/fon_7.png) center/cover;
+    margin: 90px 0px 0px 0px;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 0.7fr;
+    grid-template-rows: 1fr;
+    color: gray;
+}
+
+.fot_text1 {
+    display: flex;
+    gap: 6px;
+    margin: 10px 0px 0px 0px;
+}
+
+.fot_text2 {
+    margin: 25px 0px 0px 0px;
+}
+
+.fot_text3 {
+    display: block;
+    margin: 0%;
+}
+
+.logo2 {
+    margin: 20px 0px 0px 80px;
+}
