@@ -1,0 +1,23 @@
+body
+{
+    font-family: Arial, sans-serif;
+    background-color: beige;
+}
+header
+{
+    background-color: beige;
+    text-align: center;
+}
+main
+{
+    background-color: bisque;
+}
+footer
+{
+    background-color: bisque;
+    text-align: center;
+}
+.p1
+{
+background-color: bisque;
+}
