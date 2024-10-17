@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #333;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+header a {
+    font-size: 36px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+}
+
+body main a {
+    text-decoration: none;
+    color: #333;
+}
+
+body main .new1 {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.personal{
+    text-align: center;
+}
+.personal h2{
+    margin-top: 10px;
+}
+.personal .wrok{
+    border: 2px solid black;
+    color:black;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-left: 800px;
+    margin-right: 800px;
+}
+
+.columns-container {
+    display: flex; 
+    flex-wrap: wrap; 
+}
+.column {
+    flex: 1; 
+    margin: 10px; 
+}
+.columns-container1 {
+    display: flex; 
+    flex-wrap: wrap; 
+}
+
+.column погода {
+    flex: 1; 
+    margin: 10px; 
+}
+.speimg img{
+    display: flex;
+    justify-content: center;
+}
