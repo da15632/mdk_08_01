@@ -1,0 +1,42 @@
+.line li{
+    display: inline-block;
+    background-color: pink;
+    height: 10px;
+    width: 10px;
+    list-style-type: none;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.links a{
+    display: block;
+    padding: 10px;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    margin-top: 10px;
+    text-decoration: none;
+    color: rgb(42, 45, 48);
+    width: 200px;
+}
+.blocks div{
+    display: inline-block;
+    background-color: brown;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 10px;
+    height: 20px;
+    padding: 15px;
+    padding-top: 20px;
+
+}
+.non{
+    margin-bottom: 30px;
+}
+.links-markers a{
+    background-color: black;
+    display: list-item;
+    list-style-type: none;
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+}
