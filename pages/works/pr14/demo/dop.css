@@ -1,0 +1,60 @@
+body {
+    padding: 20px;
+}
+
+.first-button {
+    background-color: rgb(125, 204, 51);
+    border: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+}
+
+.first-button:hover {
+    background-color: rgb(245, 56, 103);
+}
+
+.second-button {
+    background-color: rgb(125, 204, 51);
+    border: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+}
+
+.second-button:hover {
+    transform: scale(1.1);
+}
+
+.box {
+    background: #2db34a;
+    border-radius: 6px;
+    cursor: pointer;
+    height: 95px;
+    line-height: 95px;
+    text-align: center;
+    transition: all 0.5s linear;
+    width: 95px;
+    position: absolute;
+    animation: slide 2s infinite;
+}
+
+@keyframes slide {
+    0% {
+        left: 0;
+        top: 400px;
+    }
+
+    100% {
+        left: 400px;
+        top: 400px;
+    }
+}
+
+.box:hover boxx {
+    animation-name: slide;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+}

@@ -1,0 +1,23 @@
+body
+{
+color: #fff;
+font: 600 24px;
+}
+.box {
+    background: #2db34a;
+    border-radius: 6px;
+    cursor: pointer;
+    height: 95px;
+    line-height: 95px;
+    text-align: center;
+    transition: all 0.5s linear;
+    width: 95px;
+}
+
+.box:hover {
+    background: #ff7b29;
+    border-radius: 66px;
+}
+.box {
+    transform: translateX(-10px);
+}
