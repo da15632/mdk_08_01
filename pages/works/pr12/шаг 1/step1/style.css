@@ -1,0 +1,29 @@
+@media screen and (min-width: 480px) and (max-width: 800px) {
+	.content {
+		background: rgb(84, 172, 223);
+	}
+}
+
+@font-face {
+	font-family: "RFDewi";
+	font-weight: normal;
+	src: url("../../../../fonts/RF/RFDewiExtended-Bold.woff2") format("woff2");
+}
+
+body {
+	font-family: "RFDewi";
+}
+
+  * {
+	padding: 0;
+	margin: 0;
+}
+p,
+h1 {
+	margin: 0 0 30px 0;
+}
+.content {
+	max-width: 900px;
+	margin: 20px auto;
+	padding: 0 30px;
+}
