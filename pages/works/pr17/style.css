@@ -1,0 +1,180 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    display: grid;
+    width: 42%;
+    margin: 0 auto;
+}
+.header_top {
+background: rgba(208, 94, 212, 0.667);
+width: 100%;
+height: 250px;
+width: 625px;
+justify-content: space-between;
+color: aliceblue;
+height: max-content;
+align-items: center;
+display: flex;
+}
+.text {
+    text-align: center;   
+    width: 90%;
+    font-size: 35px;
+}
+.img{
+   border-left: 1px solid rgba(44, 2, 44, 0.667);
+   padding: 20px;
+   height: 50px;
+   width: 50px;
+}
+.header_bottom{
+background:url(img/8.png);
+width: 100%;
+height: 350px;
+width: 625px;
+}
+.img_big {
+    width: 165px;
+    height: 165px;
+    margin-top: 25px;
+    margin-left: 15px;
+    position: relative;
+}
+.img_small {
+    width: 35px;
+    height: 35px;
+    margin-left: -40px;
+    margin-top: 30px;
+    position: absolute;
+
+}
+.text-profil {
+    margin-left: 50%;
+    margin-top: -25%;
+    font-size: 40px;
+}
+.text-profil2 {
+    margin-left: 50%;
+    font-size: 20px;
+    padding-top: 5px;
+    margin-bottom: 20px ;
+}
+button{
+    
+    margin-left: 50%;
+    height: 50px;
+    width: 150px;
+    color: antiquewhite;
+    background: rgb(58, 221, 58);
+    font-size: 20px;
+}
+.img_pluc {
+    
+    height: 20px;
+    width: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.header_foother{
+    display:flex;
+    height: 560px;
+    width: 625px;
+    background: url(img/fon1.jpeg); 
+}
+.card{
+   margin-top: 20px;
+   padding:20px 20px;
+   margin-left: 40px;
+   height: 180px;
+   width: 160px;
+   background: #fff;
+}
+.card-img  {
+    height: 150px;
+    width: 160px;
+    
+}
+.card-text{
+    padding: 5px;
+    height: 5px;
+    
+}
+.cerce{
+    height: 25px;
+    width: 25px;
+   margin-top: -45%;
+    margin-left: 140px;
+    
+}
+.card2{
+    margin-top: 20px;
+    padding:20px 20px;
+    margin-left: 70px;
+    height: 230px;
+    width: 160px;
+    background: #fff;
+ }
+.card2-img  {
+     height: 210px;
+     width: 160px;
+ }
+.card2-text{
+     padding: 5px;
+     height: 5px;
+     
+ }
+.cerce2{
+     height: 25px;
+     width: 25px;
+    margin-top: -45%;
+     margin-left: 140px;
+ }
+ .card3{
+    
+    margin-top: 50%;
+    padding:20px 20px;
+    margin-left: -75%;
+    height: 170px;
+    width: 220px;
+    background: #fff;
+ }
+ .card3-img  {
+    height: 150px;
+    width: 210px;
+ }
+ .card3-text{
+     padding: 5px;
+     height: 5px;
+     
+ }
+ .cerce3{
+     height: 25px;
+     width: 25px;
+    margin-top: -45%;
+     margin-left: 160px;
+ }
+ .card4{
+    
+    margin-top: 70%;
+    padding:20px 20px;
+    margin-left: 10%;
+    height: 82px;
+    width: 170px;
+    background: #fff;
+    
+ }
+ .card4-img  {
+    padding-top: 10%;
+    padding-left: 35%;
+    height: 50px;
+    width: 50px;
+    
+ }
+ .card4-text{
+    text-align: center;
+     padding: 5px;
+     height: 5px;
+     
+ }
