@@ -1,0 +1,38 @@
+.d1
+{
+    margin: 20px;
+    border: 1px solid black
+}
+.d2
+{
+    margin: 20px;
+    border: 1px solid black
+}
+.d3
+{
+    margin: 20px;
+    border: 1px solid black
+}
+body p
+{
+    margin: 30px;
+    text-align: right;
+}
+body h1
+{
+    padding: 10px;
+}
+img 
+{
+    float: left;
+    margin: 0;
+    margin-right: 15px;
+}
+.d2 img, .d3 img
+{
+    border: 1px solid black
+}
+body a
+{
+    font-size: 20px;
+}

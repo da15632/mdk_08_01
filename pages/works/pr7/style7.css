@@ -1,0 +1,89 @@
+.p1
+{
+    text-align:center
+}
+.p2
+{
+    text-indent: 5px
+}
+.p3
+{
+    line-height: 120%
+}
+.p4
+{
+    vertical-align:baseline
+}
+.p5
+{
+    word-spacing: 2px
+}
+.p6
+{
+    letter-spacing: 10px
+}
+.p7
+{
+    white-space:nowrap
+}
+.p8
+{
+    -o-tab-size: 16;
+}
+.p9
+{
+    text-transform:lowercase
+}
+.p10
+{
+    direction:rtl
+}
+.p11
+{
+    direction:rtl;
+    unicode-bidi:embed
+}
+.p12
+{
+    text-decoration:line-through
+}
+.p13:first-line 
+{
+    font-style:italic
+}
+.p14
+{
+    font-family:Georgia
+}
+.p15
+{
+    font-style:italic
+}
+.p16
+{
+    font-variant:small-caps
+}
+.p17
+{
+    font-weight:bold
+}
+.p18
+{
+    font-size:90%
+}
+.p19
+{
+    color:blue
+}
+.p20
+{
+    font-size:90%;
+    font-weight:bold;
+    font-style:oblique
+}
+.p21
+{
+    font-style:oblique;
+    color:blueviolet;
+    letter-spacing: 3px
+}
